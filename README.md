@@ -2,8 +2,9 @@
 
 Última atualização: 17 de outubro de 2026
 
-Responsável: Antônio Augusto Ferreira — Desenvolvedor independente
-Contato: toninho_trovao@yahoo.com.br
+**Responsável:** Antônio Augusto Ferreira — Desenvolvedor independente
+
+**Contato:** toninho_trovao@yahoo.com.br
 
 ## 1. Apresentação
 
@@ -91,6 +92,8 @@ A versão atualizada indicará sua data de revisão.
 
 ## 12. Contato
 
-Antônio Augusto Ferreira
+**Antônio Augusto Ferreira**
+
 Desenvolvedor independente — Nutrição & Performance
-E-mail: toninho_trovao@yahoo.com.br
+
+**E-mail:** toninho_trovao@yahoo.com.br
